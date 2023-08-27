@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.row_alignment, .row_column_alignment{
+    display: flex;
+    flex-direction: row;
+}
+.column_alignment{
+    display: flex;
+    flex-direction: column;
+}
+.wrap{
+    flex-wrap: wrap;
+}
